@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class EstaciónMeteorologica {
     // Devuelve el código ANSI de color según la temperatura
